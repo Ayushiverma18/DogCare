@@ -1,0 +1,135 @@
+#title{
+    height:450px;
+      background-color:#ff4c68;
+  }
+  h1{
+      font-family: 'Montserrat-Black', sans-serif;;
+       color: aliceblue;
+      size: 3 rem;
+      margin-bottom: 38px;    line-height: 1.5;
+  }
+  .container-fluid{
+     padding: 3% 15% 7%; 
+     
+  }
+   .navbar{
+    padding-top: 0;
+    padding-bottom: 50px;
+    padding-left: 0%;
+   padding-right: 0%;
+   }
+    body{
+      font-family:  'Montserrat', sans-serif;
+    }
+  
+    .navbar-brand{
+      font-family: 'Ubuntu', sans-serif;
+    }
+    .imagetest{
+  
+   
+       padding-top: 149px;;
+      width: 350px;
+    
+      position: absolute;
+      left: 263px;
+    }
+    .sup{
+  color: #fd6163;
+  font-size: 3rem;
+  height: 70px;
+  width: 100px;
+  text-align:  center;
+    }
+  #features{
+    background-color: white;
+      padding: 7% 15%; 
+  position: relative;z-index: 0;
+  
+   }
+   .feature-box{
+      text-align: center;
+   }
+   .sup:hover{
+      color: #f93b58;
+   }
+  
+  h3{
+      font-family: 'Montserrat-Black', sans-serif;
+      color: black;
+  }
+  #testimonials{
+      padding: 7% 15%; 
+      text-align: center;
+      background-color: #f86f71;
+      color: aliceblue;
+  }
+  h2{
+      font-family: 'Montserrat-Black', sans-serif;
+       color: aliceblue;
+       height: 1.5;
+       font-size: 3rem;
+  }
+  .test-class{
+      width: 10%;
+      border-radius: 100%;
+      padding: 20px; }
+  
+      #press{
+         padding-bottom: 7%; 
+      text-align: center;
+      background-color: #f86f71; 
+      }
+  
+      .logo{
+          width: 15%;
+          padding: 20px 20 px;
+      }
+      .testimonial-image{
+        width: 10%;
+        border-radius: 100%;
+        padding: 20px; }
+    
+  .head{
+    color: black;
+  }
+  
+  .btns{
+    width: 170px;
+  }
+  
+  /* pricing */
+  #pricing{
+    padding: 7%;
+   }
+  
+   .simple{
+    padding-bottom: 30px;
+   }
+  /* Call to Action */
+  
+  #cta{
+    padding: 7% 15%; 
+    text-align: center;
+    background-color: #f86f71;
+    color: aliceblue;
+  }
+  .cta{margin-bottom:55px ;
+    font-family: 'Montserrat-Black', sans-serif;
+    color: aliceblue;
+    height: 2.0;
+    font-size: 3rem;}
+  
+   /* Footer */
+   #footer{
+    background-color: white;
+    padding: 7% 15%; 
+    text-align: center;
+   }
+   .social{
+    margin:20px 10px;
+   }
+  
+   .heading{
+    color: rgb(255, 203, 203);
+   }
